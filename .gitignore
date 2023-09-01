@@ -1,0 +1,14 @@
+extracted_scene_audio/
+graphen_tracking/
+lighttrack/
+mfacenet/
+muSSP_python/
+pyskl/
+RelTR/
+transcribed_results/
+
+*.zip
+*.pickle
+*.sh
+*.txt
+
